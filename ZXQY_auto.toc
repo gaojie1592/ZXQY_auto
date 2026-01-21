@@ -1,0 +1,10 @@
+## Interface: 11200
+## Title: 再续前缘_自动工具
+## Version: v0.0.1
+## Author: 一个星期一次
+## Notes: 再续前缘公会工具
+## Title-zhCN: |CFF00CD00[再续前缘]自动工具
+## SavedVariables: ZXQY_auto_option
+
+ZXQY_auto.lua
+
